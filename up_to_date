@@ -1,0 +1,5 @@
+GIT COMMANDS USED:
+
+git fetch - It will update your local git repositary without merging your remote repositary with the local repositary.
+
+git pull - In this case i used "git pull origin main" to specify my local git branch. This git command will merge your remote repositary with your local git repository.
